@@ -24,7 +24,7 @@
   
 ##
 <div> 
-  <a href = "mailto:contato@lucasfrodrigues.com.br"><img src="https://img.shields.io/badge/-email-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@lucasfrodrigues.com.br"><img src="https://img.shields.io/badge/-email-lightgrey?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/lucasfrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
