@@ -1,6 +1,6 @@
 ## Hello, World!! 👋 Welcome to my profile.
 
-🔭 I'm a front developer in progress.
+🔭 I'm a front-end developer in progress.
 
 :house_with_garden: I’m from Brazil.
 
@@ -24,7 +24,7 @@
   
 ##
 <div> 
-  <a href = "mailto:contato@lucasfrodrigues.com.br"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=EMAILx&logoColor=white target="_blank"></a>
+  <a href = "mailto:contato@lucasfrodrigues.com.br"><img src="https://img.shields.io/badge/-email-lightgrey" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/lucasfrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
