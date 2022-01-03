@@ -6,7 +6,7 @@
 
 :books: I’m currently learning HTML5, CSS and JavaScript
 
-:outbox_tray: 2021 Goals: Create news projects and learning more every day.
+:outbox_tray: 2022 Goals: Create news projects and learning more every day.
 
 😄 Pronouns: ele/dele/he/his
 
