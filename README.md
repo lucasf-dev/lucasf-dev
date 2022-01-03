@@ -8,6 +8,8 @@
 
 :outbox_tray: 2022 Goals: Create news projects and learning more every day.
 
+:website
+
 😄 Pronouns: ele/dele/he/his
 
 ##
