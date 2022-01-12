@@ -10,7 +10,7 @@
 
 🖥️ WebSite: Trabalhando nisso!
 
-😄 Pronouns: ele/dele/he/his
+😄 Pronomes: ele/dele/he/his
 
 ##
 <div align = "center">
