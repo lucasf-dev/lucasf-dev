@@ -1,14 +1,14 @@
-## Hello, World!! 👋 Welcome to my profile.
+## Hello, World!! 👋 Bem vindo ao meu perfil, fique à vontade.
 
-🔭 I'm a front-end developer in progress.
+🔭 Eu sou um front-end em desenvolvimento.
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Sou do Brasil.
 
-:books: I’m currently learning HTML5, CSS and JavaScript
+:books: Atualmente estudo HTML5, CSS and JavaScript
 
-:outbox_tray: 2022 Goals: Create news projects and learning more every day.
+:outbox_tray: Metas de 2022: Criar projetos pessoais, me desenvolver e aprender cada dia mais.
 
-🖥️ WebSite: I am working on it!
+🖥️ WebSite: Trabalhando nisso!
 
 😄 Pronouns: ele/dele/he/his
 
